@@ -1,4 +1,4 @@
-FROM docker.io/ubuntu:latest
+FROM ubuntu:latest
 #COPY ./libRes /libRes
 
 
